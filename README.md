@@ -4,6 +4,7 @@ A curated collection of useful web resources and reference sites.
 # Web Resource Bookmarks
 A curated list of useful websites and blogs.
 
+- [https://www.kesug.com/](https://lemonseo.kesug.com/)
 - [https://qiita.com/](https://qiita.com/lemon-Ai/items/849c8d2b5604e4be2618)
 - [https://www.wpxblog.jp/](https://lemonseo.wpxblog.jp/)
 - [https://ameblo.jp/](https://ameblo.jp/ucm0417)
