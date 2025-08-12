@@ -4,6 +4,9 @@ A curated collection of useful web resources and reference sites.
 # Web Resource Bookmarks
 A curated list of useful websites and blogs.
 
+- [https://web.fc2.com/](https://seoeducation.fc2.page/)
+- [https://seomaxwin.store/](https://seomaxwin.store/)
+- [https://seoprinciplesexplained.xyz/](https://seoprinciplesexplained.xyz/)
 - [https://www.byethost3.com/](https://lemonseo.byethost3.com/)
 - [https://www.kesug.com/](https://lemonseo.kesug.com/)
 - [https://qiita.com/](https://qiita.com/lemon-Ai/items/849c8d2b5604e4be2618)
