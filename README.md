@@ -4,6 +4,7 @@ A curated collection of useful web resources and reference sites.
 # Web Resource Bookmarks
 A curated list of useful websites and blogs.
 
+- [https://tax-lawyer-center.com/](https://tax-lawyer-center.com/)
 - [http://seo-guidebook.getenjoyment.net/](http://seo-guidebook.getenjoyment.net/)
 - [https://medium.com/](https://medium.com/@lemon.seo)
 - [https://lemonseo.uca.icu/](https://lemonseo.uca.icu/)
