@@ -4,6 +4,7 @@ A curated collection of useful web resources and reference sites.
 # Web Resource Bookmarks
 A curated list of useful websites and blogs.
 
+- [https://zeirishi-partner.themedia.jp/](https://zeirishi-partner.themedia.jp/)
 - [https://seotop1.online/](https://seotop1.online/)
 - [https://tax-lawyer-center.com/](https://tax-lawyer-center.com/)
 - [http://seo-guidebook.getenjoyment.net/](http://seo-guidebook.getenjoyment.net/)
